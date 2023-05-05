@@ -49,7 +49,7 @@ public class Automotores {
     }
 // Obtener de cada variable
 
-    public String obtenerCedDuenio() {
+    public String obtenerCedula() {
         return cedula;
     }
 
@@ -57,7 +57,7 @@ public class Automotores {
         return marca;
     }
 
-    public int obtenerAnioFabricacion() {
+    public int obtenerAnio() {
         return anio;
     }
 
